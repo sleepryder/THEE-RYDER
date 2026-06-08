@@ -1,7 +1,3 @@
-/* ============================================================================
-   THEE RYDER — app.js  (rendering + routing + cursor + loading)
-   You normally never need to edit this. Add work in content.js.
-   ========================================================================== */
 (function () {
   "use strict";
   var S = window.SITE;

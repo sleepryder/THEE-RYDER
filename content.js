@@ -122,11 +122,8 @@ window.SITE = {
       blurb: "",
       credits: [],
       images: [
-        // ▼▼▼  VIMEO VIDEO  ▼▼▼
-        // Replace the number below with YOUR Vimeo video id.
-        // Find it in your video's link: vimeo.com/1234567  →  vimeo: "1234567"
-        // (76979871 is a demo clip so you can see it works — swap it for yours.)
-        { vimeo: "76979871" },
+       
+        { vimeo: "1199567681" },
         // ▲▲▲  end video  ▲▲▲
         { src: "images/liminal/01.jpg", span: 2 },
         { src: "images/liminal/02.jpg", span: 2 },
@@ -243,12 +240,12 @@ window.SITE = {
 
   /* ---- INFO page ------------------------------------------------------- */
   info: {
-    bio: "Born in Ukraine, Valeriia Eriomenco-Yeromenko, also known as Thee Ryder, is a fashion photographer and visual artist currently based in Bratislava, navigating life in migration. With over five years of practice spanning commercial, editorial, and e-commerce photography, Thee Ryder operates across the full spectrum of image production \u2014 from concept and direction through to retouching and final delivery. Alongside her photographic practice, she extends into 3D/CGI art direction \u2014 developing visual concepts, virtual environments and animatics in Unreal Engine, and collaborating with technical specialists to bring synthetic and real imagery into coherent visual worlds.",
+    bio: "Born in Ukraine, Valeriia Eriomenco (Yeromenko), also known as Thee Ryder, is a fashion photographer and visual artist currently based in Bratislava, navigating life in migration. With over five years of practice spanning commercial, editorial, and e-commerce photography, Thee Ryder operates across the full spectrum of image production \u2014 from concept and direction through to retouching and final delivery. Alongside her photographic practice, she extends into 3D/CGI art direction \u2014 developing visual concepts, virtual environments and animatics in Unreal Engine, and collaborating with technical specialists to bring synthetic and real imagery into coherent visual worlds.",
     education: [
       "october 2025 \u2013 february 2026 / Die Akademie der K\u00fcnste Wien \u2014 Visual Arts (Time and Photography)",
       "march 2023 \u2013 september 2023 / Hochschule Bielefeld (HSBI) \u2014 Mixed Media and Videography Techniques",
       "september 2020 \u2013 august 2026 / The Academy of Fine Arts and Design in Bratislava \u2014 Visual Arts (Photography and New Media)",
-      "september 2019 \u2013 august 2020 / Catholic University in Ru\u017eomberok \u2014 Mathematics & Programming / Linguistics / Pedagogics",
+      "september 2019 \u2013 august 2020 / Catholic University in Ru\u017eomberok \u2014 Mathematics & Programming / Italian Linguistics / Pedagogics",
     ],
     publications: [
       "VOGUE CS \u2014 March 2025",
@@ -269,6 +266,7 @@ window.SITE = {
       "Photo Vogue \u2014 A Tribute to Ukraine: Chapter IV (2022)",
     ],
     exhibitions: [
+      "2026 / Bratislava \u2014 French Institute \u2014 Collective Exhibition \u201cHommage à Monet\u201d",
       "2025 / Prague \u2014 Solarigraphy Meeting 2025 at Planetum",
       "2024\u201325 / Bratislava \u2014 \u201cOrthophoto\u201d at Oldcity Gallery Zichy",
       "2024 / The Hague \u2014 \u201cGhosts of Study Collections\u2019 Past\u201d at KABK",
