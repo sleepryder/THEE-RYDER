@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Thee Ryder | New portfolio, coming soon</title>
+<meta name="description" content="Valeria Eriomenco, Thee Ryder. Photography, art direction and moving image. New portfolio coming soon.">
+<meta property="og:title" content="Thee Ryder | New portfolio, coming soon">
+<meta property="og:description" content="Photography, art direction and moving image. The site is being rebuilt.">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#000000">
+<style>
+  :root { --ink:#fff; --muted:rgba(255,255,255,.55); --line:rgba(255,255,255,.2); --accent:#002CFF; --pad:40px; }
+  * { box-sizing:border-box; margin:0; padding:0; }
+  html, body { height:100%; }
+  body {
+    background:#000; color:var(--ink);
+    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+    display:flex; flex-direction:column; justify-content:space-between;
+    min-height:100svh; padding:var(--pad); padding-bottom:calc(var(--pad) + env(safe-area-inset-bottom));
+    -webkit-font-smoothing:antialiased; overflow:hidden;
+  }
+  header { display:flex; justify-content:space-between; align-items:center; font-size:13px; letter-spacing:.14em; text-transform:uppercase; }
+  .pill { display:inline-flex; align-items:center; gap:8px; color:var(--muted); letter-spacing:.06em; text-transform:none; font-size:13px; }
+  .pill::before { content:""; width:8px; height:8px; border-radius:50%; background:var(--accent); box-shadow:0 0 0 4px rgba(0,44,255,.25); }
+  main { position:relative; }
+  h1 { font-weight:400; font-size:clamp(40px, 8.5vw, 132px); line-height:.98; letter-spacing:-.03em; max-width:12ch; }
+  .sub { margin-top:24px; max-width:44ch; color:var(--muted); font-size:clamp(15px, 1.4vw, 18px); line-height:1.45; }
+  #string { display:block; width:100%; height:120px; margin-top:48px; touch-action:none; cursor:crosshair; }
+  #string path { fill:none; stroke:var(--accent); stroke-width:2; vector-effect:non-scaling-stroke; }
+  footer { display:flex; justify-content:space-between; gap:16px; flex-wrap:wrap; padding-top:20px; border-top:1px solid var(--line); font-size:14px; }
+  footer a { color:var(--ink); text-decoration:none; border-bottom:1px solid var(--line); }
+  footer a:hover { border-color:var(--accent); }
+  @media (max-width:600px) { :root { --pad:20px; } #string { height:90px; margin-top:32px; } }
+</style>
+</head>
+<body>
+  <header>
+    <span>Thee Ryder</span>
+    <span class="pill">Available for commissions worldwide</span>
+  </header>
+
+  <main>
+    <h1>New portfolio, coming soon.</h1>
+    <p class="sub">Photography, art direction and moving image. The site is being rebuilt, new work is on its way.</p>
+    <svg id="string" viewBox="0 0 1000 120" preserveAspectRatio="none" aria-hidden="true">
+      <path d="M0 60 Q 500 60 1000 60"/>
+    </svg>
+  </main>
+
+  <footer>
+    <a href="mailto:worktheeryder@gmail.com">worktheeryder@gmail.com</a>
+    <a href="https://instagram.com/theeryder" target="_blank" rel="noopener">Instagram @theeryder</a>
+  </footer>
+
+<script>
+(function () {
+  var svg = document.getElementById('string');
+  var path = svg.querySelector('path');
+  var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if (reduce) return;
+  var cx = 500, cy = 60, target = 60, vy = 0, active = false, raf = null;
+  function draw() { path.setAttribute('d', 'M0 60 Q ' + cx + ' ' + (2 * cy - 60) + ' 1000 60'); }
+  function loop() {
+    vy += (target - cy) * 0.12;
+    vy *= 0.88;
+    cy += vy;
+    draw();
+    if (!active && Math.abs(vy) < 0.05 && Math.abs(cy - 60) < 0.05) { cy = 60; draw(); raf = null; return; }
+    raf = requestAnimationFrame(loop);
+  }
+  function kick() { if (!raf) raf = requestAnimationFrame(loop); }
+  function move(e) {
+    var r = svg.getBoundingClientRect();
+    cx = Math.max(0, Math.min(1000, (e.clientX - r.left) / r.width * 1000));
+    var dy = (e.clientY - (r.top + r.height / 2)) / r.height * 120;
+    target = 60 + Math.max(-24, Math.min(24, dy));
+    kick();
+  }
+  svg.addEventListener('pointerenter', function (e) { active = true; move(e); });
+  svg.addEventListener('pointermove', function (e) { if (active) move(e); });
+  svg.addEventListener('pointerleave', function () { active = false; target = 60; kick(); });
+  svg.addEventListener('pointerdown', function (e) { active = true; move(e); });
+  window.addEventListener('pointerup', function () { active = false; target = 60; kick(); });
+})();
+</script>
+</body>
+</html>
