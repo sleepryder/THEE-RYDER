@@ -117,7 +117,8 @@ body.home{background:#000;color:#fff;min-height:100svh}
 .home .hero-bg{position:fixed;inset:0;z-index:0}
 .home .hero-bg img{width:100%;height:100%;object-fit:cover;object-position:60% 50%;opacity:.9}
 .home .hero-bg::after{content:"";position:absolute;inset:0;background:radial-gradient(ellipse at 50% 50%,rgba(0,0,0,0) 20%,rgba(0,0,0,.65) 100%),linear-gradient(rgba(0,0,0,.35),rgba(0,0,0,.35))}
-.home .top,.home .home-main{position:relative;z-index:2}
+.home .home-main{position:relative;z-index:2}
+.home .top{position:relative;z-index:10}
 .home .nav{color:rgba(255,255,255,.65)}
 .home .nav a:hover,.home .nav a[aria-current=page]{color:#fff}
 .home-main{min-height:calc(100svh - 50px);display:flex;flex-direction:column;justify-content:space-between;padding:0 var(--pad) 40px}
