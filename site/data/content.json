@@ -1,0 +1,801 @@
+{
+  "site": {
+    "name": "Thee Ryder",
+    "email": "worktheeryder@gmail.com",
+    "instagram": "https://instagram.com/theeryder",
+    "instagramHandle": "@theeryder",
+    "behance": "https://www.behance.net/valeriiyeromen1",
+    "domain": "theeryder.com",
+    "city": "Bratislava"
+  },
+  "projects": [
+    {
+      "slug": "office",
+      "num": "01",
+      "title": "Office",
+      "size": 200,
+      "category": "Photography",
+      "cover": "006",
+      "coverPos": "22% 50%",
+      "tile": "Fashion editorial. Collection by Nata Galagan",
+      "statement": "The \"OFFICE\" is a bold reimagination of corporate chic, where professionalism meets allure and confidence takes center stage. Drawing inspiration from films like The Devil Wears Prada and Secretary, this photoshoot delves into the magnetic world of ambition, power dynamics, and sophistication. The contrasting atmosphere amplifies Nata Galagan's striking collection and styling by Yaryna Lahoda.",
+      "meta": [
+        [
+          "Type",
+          "Fashion editorial"
+        ],
+        [
+          "Collection",
+          "Nata Galagan"
+        ],
+        [
+          "Styling",
+          "Yaryna Lahoda"
+        ],
+        [
+          "Models",
+          "Ivana Benadová, Michelle Paniková"
+        ],
+        [
+          "Agency",
+          "Exit Model Management"
+        ]
+      ],
+      "credits": [
+        {
+          "h": "Models",
+          "groups": [
+            [
+              "Ivana Benadová",
+              "@ivana.benadova"
+            ],
+            [
+              "Michelle Paniková",
+              "@michellepanikova_"
+            ],
+            [
+              "Exit Model Management",
+              "@exitmodelmanagement"
+            ]
+          ]
+        },
+        {
+          "h": "Design and styling",
+          "groups": [
+            [
+              "Fashion designer",
+              "Nata Galagan",
+              "@galagan.brand"
+            ],
+            [
+              "Styling",
+              "Yaryna Lahoda",
+              "@yaryna_lahoda"
+            ]
+          ],
+          "roles": true
+        },
+        {
+          "h": "Stage assistants",
+          "groups": [
+            [
+              "Ilia",
+              "@holy__satan"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "spomyn",
+      "num": "02",
+      "title": "Spomyn",
+      "size": 200,
+      "category": "Photography",
+      "cover": "019",
+      "coverPos": "50% 30%",
+      "tile": "Collection by Yaryna Lahoda, in hemp fabric",
+      "statement": "The “SPOMYN” Collection is a celebration of tradition and modernity, seamlessly blending the rich tapestry of Ukrainian culture with cutting-edge design. Yaryna Lahoda's vision is embodied in every stitch, showcasing a deep connection to her heritage while embracing sustainable and eco-friendly practices through the use of hemp fabric. Capturing the essence of this unique collection is the stunning model, Rita Markytan, from the renowned Look Models Int.",
+      "meta": [
+        [
+          "Type",
+          "Fashion editorial"
+        ],
+        [
+          "Collection",
+          "Yaryna Lahoda"
+        ],
+        [
+          "Styling",
+          "Yaryna Lahoda"
+        ],
+        [
+          "Models",
+          "Rita Markytan, Irina Solomiana"
+        ],
+        [
+          "Agency",
+          "Look Models International"
+        ]
+      ],
+      "credits": [
+        {
+          "h": "Spomyn",
+          "groups": [
+            [
+              "Model",
+              "Rita Markytan @ritamarkytan",
+              "Look Models International @lookmodels_int"
+            ],
+            [
+              "Fashion designer and stylist",
+              "Yaryna Lahoda @yaryna_lahoda"
+            ]
+          ],
+          "roles": true
+        },
+        {
+          "h": "Anima",
+          "groups": [
+            [
+              "Model",
+              "Irina Solomiana @1vayalubovr"
+            ],
+            [
+              "Fashion designer (silk skirt)",
+              "Karin Elizova @karinelizova"
+            ],
+            [
+              "Fashion designer (recyclable garments)",
+              "Yaryna Lahoda @yaryna_lahoda"
+            ],
+            [
+              "Prop maker (textile art objects from the “Tempus” collection)",
+              "Tatiana Poliak @_serotonin_00"
+            ],
+            [
+              "Fashion stylist",
+              "Yaryna Lahoda @yaryna_lahoda"
+            ],
+            [
+              "Stage assistants",
+              "Sofia Berezhna @soffiaber",
+              "Murad Isayev @sacr3d.bl3ssing",
+              "Gosha Pileckii @plckii"
+            ]
+          ],
+          "roles": true
+        },
+        {
+          "h": "Folklore",
+          "groups": [
+            [
+              "Model",
+              "Irina Solomiana @1vayalubovr"
+            ],
+            [
+              "Jewelry (casts from the “Stone Heart” collection)",
+              "Ilarii Omelchenko @ilarii_omelchenko"
+            ],
+            [
+              "Prop maker (textile art objects from the “Tempus” collection)",
+              "Tatiana Poliak @_serotonin_00"
+            ],
+            [
+              "Fashion stylist",
+              "Yaryna Lahoda @yaryna_lahoda"
+            ],
+            [
+              "Stage assistants",
+              "Sofia Berezhna @soffiaber",
+              "Murad Isayev @sacr3d.bl3ssing",
+              "Gosha Pileckii @plckii"
+            ]
+          ],
+          "roles": true
+        }
+      ]
+    },
+    {
+      "slug": "schiz-drama-vvain",
+      "num": "03",
+      "title": "Schiz. Drama",
+      "size": 160,
+      "category": "Photography",
+      "cover": "034",
+      "coverPos": "50% 50%",
+      "tile": "Staged series for VVAIN’s next album",
+      "statement": "The \"Schiz. Drama\" is a staged photography experiment, a journey into the depths of VVAIN's artistic psyche. The series shows his amazing change in a variety of settings, from a rustic western bar to the modern air of an office complex. Each shot constitutes a chapter in the dramatic narrative, capturing VVAIN's adaptability and transcendence. It's a visual symphony that reflects the breadth and complexity of his next album.",
+      "meta": [
+        [
+          "Type",
+          "Staged photography series"
+        ],
+        [
+          "Artist",
+          "VVAIN"
+        ],
+        [
+          "Location",
+          "Michalska Cocktail Room"
+        ],
+        [
+          "Producer",
+          "VVAIN"
+        ]
+      ],
+      "credits": [
+        {
+          "h": "Production",
+          "groups": [
+            [
+              "Producer",
+              "VVAIN @we_live_invain"
+            ],
+            [
+              "Production manager",
+              "@jana_es_"
+            ],
+            [
+              "Gaffer",
+              "@schafer.leon"
+            ]
+          ],
+          "roles": true
+        },
+        {
+          "h": "Talents and makeup",
+          "groups": [
+            [
+              "Talents",
+              "@sasukekilledsonic",
+              "@idamanduh",
+              "@maddie__mad",
+              "@new_moonjones",
+              "@filip_fecko"
+            ],
+            [
+              "Makeup artists",
+              "Sophia Gunev @sophia.gunev",
+              "Jasmin @jasminsbeautea"
+            ]
+          ],
+          "roles": true
+        },
+        {
+          "h": "Set",
+          "groups": [
+            [
+              "Set assistant",
+              "Elli @__ellii"
+            ],
+            [
+              "Location",
+              "Michalska Cocktail Room @michalskacocktailroom"
+            ]
+          ],
+          "roles": true
+        }
+      ]
+    },
+    {
+      "slug": "mimicry",
+      "num": "04",
+      "title": "Mimicry",
+      "size": 200,
+      "category": "Photography",
+      "cover": "054",
+      "coverPos": "50% 50%",
+      "tile": "Kristian Stanko collection, ESTIMAG October issue",
+      "statement": "Dive into a world of colorful expression with our exclusive photograph featuring a rising Slovak fashion designer - Kristian Stanko. This young, innovative apparel designer is creating waves with their wonderfully colored and saturated outfits, which we had the honor of featuring in the renowned October issue of ESTIMAG.",
+      "meta": [
+        [
+          "Type",
+          "Fashion editorial"
+        ],
+        [
+          "Designer",
+          "Kristian Stanko"
+        ],
+        [
+          "Published",
+          "ESTIMAG, October issue"
+        ],
+        [
+          "Model",
+          "Jana Stankovičová"
+        ]
+      ],
+      "credits": [
+        {
+          "h": "Model",
+          "groups": [
+            [
+              "Jana Stankovičová",
+              "@jana_es_"
+            ]
+          ]
+        },
+        {
+          "h": "Fashion designer",
+          "groups": [
+            [
+              "Kristian Stanko",
+              "@s_kikino"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "mesh",
+      "num": "05",
+      "title": "Mesh",
+      "size": 200,
+      "category": "Photography",
+      "cover": "073",
+      "coverPos": "30% 30%",
+      "tile": "Karin Elizova collection, VIGOUR July 2024",
+      "statement": "The incredible and conceptualized MESH collection designed by Karin Elizova featured in printed Fashion and Beauty Issue of VIGOUR Magazine | July 2024.",
+      "meta": [
+        [
+          "Type",
+          "Fashion editorial"
+        ],
+        [
+          "Designer",
+          "Karin Elizova"
+        ],
+        [
+          "Published",
+          "VIGOUR, July 2024"
+        ],
+        [
+          "Model",
+          "Šárka Štyvarová"
+        ]
+      ],
+      "credits": [
+        {
+          "h": "Model",
+          "groups": [
+            [
+              "Šárka Štyvarová",
+              "@sarkastyvarova",
+              "represented by Elite",
+              "@elite_bratislava_ @elite_prague"
+            ]
+          ]
+        },
+        {
+          "h": "Fashion designer",
+          "groups": [
+            [
+              "Karin Elizova",
+              "@karinelizova"
+            ]
+          ]
+        },
+        {
+          "h": "Makeup artist",
+          "groups": [
+            [
+              "Maria Gibalova",
+              "@mariagibalova.makeup"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "archive",
+      "num": "06",
+      "title": "Archive",
+      "size": 200,
+      "category": "Photography",
+      "cover": "098",
+      "coverPos": "50% 30%",
+      "tile": "Selected editorials and portraits",
+      "statement": "",
+      "meta": [
+        [
+          "Type",
+          "Selected editorials and portraits"
+        ],
+        [
+          "Designers",
+          "Lucia Villarova, YORA, BLESSURE and others"
+        ]
+      ],
+      "credits": [
+        {
+          "h": "Models",
+          "lines": [
+            "Jana Stankovičová @jana_es_",
+            "Alina Shkvarchuk @sh.alinaa",
+            "Daria @composexigirll",
+            "Arina @oveisrrreal",
+            "Jane Crank @janecrank",
+            "Savelii Kuzniatsou @sava_savva",
+            "Sandy Kirik @sandy__kirik",
+            "Kate",
+            "Sara @relikvia_",
+            "Sophia @mazgutova.s",
+            "Iva"
+          ]
+        },
+        {
+          "h": "Fashion designers",
+          "lines": [
+            "Lucia Villarova @cija_villar",
+            "Alina Shkvarchuk @sh.alinaa",
+            "Laurrrie @laurrrie_",
+            "YORA @_____yora",
+            "BLESSURE @blessure2020",
+            "NUAGES"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "i-am-not-but-i-am",
+      "num": "07",
+      "title": "I am not but I am: the picture I never was",
+      "size": 84,
+      "category": "Photography",
+      "cover": "165",
+      "coverPos": "50% 50%",
+      "tile": "Creative direction and styling with BLESSURE",
+      "statement": "",
+      "meta": [
+        [
+          "Type",
+          "Editorial with creative direction"
+        ],
+        [
+          "With",
+          "BLESSURE"
+        ],
+        [
+          "Collection",
+          "“One night a year and where the cycle ends”"
+        ]
+      ],
+      "credits": [
+        {
+          "h": "Model",
+          "lines": [
+            "@mazgutova.s",
+            "@wewomenmodels"
+          ]
+        },
+        {
+          "h": "Creative direction and styling",
+          "lines": [
+            "@theeryder x @blessure2020"
+          ]
+        },
+        {
+          "h": "Clothing",
+          "lines": [
+            "Jacket and T-shirt from the @blessure2020 collection “One night a year and where the cycle ends”"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "university-research",
+      "num": "08",
+      "title": "University research",
+      "size": 110,
+      "category": "Research",
+      "cover": "140",
+      "coverPos": "50% 50%",
+      "tile": "Liminal Space, Optical Error, Real Price of a Crisp",
+      "intro": "Research projects made during my studies at the Academy of Fine Arts and Design in Bratislava, between photography, new media and 3D. Each one starts from an object, an archive or an experience of place, and asks what a photograph can actually prove.",
+      "works": [
+        {
+          "n": "01",
+          "title": "Liminal Space",
+          "year": "2026",
+          "meta": [
+            [
+              "Type",
+              "Research project, interactive environment"
+            ],
+            [
+              "Year",
+              "2026"
+            ],
+            [
+              "Engine",
+              "Unreal Engine (real-time render)"
+            ],
+            [
+              "Medium",
+              "3D reconstruction, archival photography, animated 2D objects"
+            ],
+            [
+              "Sound",
+              "Transformed noise generators, ambisonics"
+            ],
+            [
+              "Projection",
+              "Full HD, 4K, edge-blended"
+            ]
+          ],
+          "statement": [
+            "This work investigates liminality as both a theoretical framework and a lived condition emerging through migration, photography and digital reconstruction. The research begins not from abstract theory but from a personal experience of displacement: a voluntary migration that gradually became irreversible, producing a growing distance between memory and the place once understood as home. From within this condition, liminality emerges not as metaphor but as an ontological structure shaping perception, belonging and image-making itself.",
+            "The practical component translates this condition into an interactive virtual environment developed in Unreal Engine. Photographs taken during rare returns to the city of origin are used to reconstruct urban space as simultaneously documentary and unstable. Visual artefacts, texture failures and the coexistence of two-dimensional photographic fragments within three-dimensional space are deliberately preserved as traces of the gap between recollection and reconstruction. The viewer navigates a space without task, progression or exit, inhabiting liminality as a formal condition."
+          ]
+        },
+        {
+          "n": "02",
+          "title": "Optical Error",
+          "year": "2026",
+          "meta": [
+            [
+              "Type",
+              "Thesis work"
+            ],
+            [
+              "Source",
+              "Soviet educational slide films, 1982"
+            ],
+            [
+              "Method",
+              "Projection, magnifying glass, contact prints, large-format paper"
+            ],
+            [
+              "Author",
+              "Valeria Eriomenco"
+            ]
+          ],
+          "statement": [
+            "“Optical Error” is a thesis work grown from an encounter with a family archive: a collection of Soviet educational slide films produced in 1982, belonging to the artist’s grandfather. The point of departure was a question about the nature of error in photography: when does a technical flaw, a distortion or a failure cease to be a defect and become a meaningful element that speaks to the nature of the image itself?",
+            "The research moved through five sequential experimental stages: the study of lighting conditions in a photographic studio (control and its deliberate collapse); an analytical examination of the slides as physical objects through projection and a magnifying glass; the production of contact prints; work with large-format photographic paper; and finally the generation of new images through inversion, overexposure and digital manipulation. At each stage the artist intervened intentionally in the process of fixing and reproduction: a projected beam carried the body of a person, a magnifying glass concentrated light to the point of physically burning the film, contact prints translated the image into a state of barely visible shadow or abstract trace. Destruction as a method of production.",
+            "The grandfather’s slides carry a double dimension: a Soviet astronomy curriculum (images of satellites, the lunar surface, orbital stations) and a personal family history stored in a fragile, ageing medium. The final visual series presents images in which error becomes form: burn marks on paper echo the lunar surfaces depicted in the slides themselves, creating a closed loop between the content of the archive and the physical traces of its destruction."
+          ]
+        },
+        {
+          "n": "03",
+          "title": "Real Price of a Crisp",
+          "year": "2021 to 2022",
+          "meta": [
+            [
+              "Type",
+              "Early research project"
+            ],
+            [
+              "Year",
+              "2021 to 2022"
+            ],
+            [
+              "Guidance",
+              "Peter Kostrun"
+            ],
+            [
+              "Outcome",
+              "Large-format photogram, photographs"
+            ]
+          ],
+          "statement": [
+            "“Real Price of a Crisp” is an early project in which the artist first outlines the method that would become central to her practice: transforming a trivial object into the raw material of a pseudo-scientific investigation that simultaneously foregrounds the absurdity of the research gesture itself and raises questions about the nature of documentation.",
+            "The object of inquiry is a packet of salted crisps. The artist systematically measured each crisp in the package, scanned the instruments used in the “scientific experiment”, and documented the entire process as a simulation of academic procedure. The outcome was a large-format photogram of a single crisp, visually recalling the surface of the moon, and a photograph of the grease that seeped through the paper, producing a texture that evokes imagery of deep space.",
+            "The monotony of leafing through near-identical pages of the “study”, in which minor variations in crisp size are treated as scientifically significant, generates an ironic effect: the scale of the gesture enters into absurd contrast with the triviality of the object. The work points to the mechanism by which every human impulse toward accumulation, classification and control reproduces itself regardless of what it is applied to."
+          ]
+        }
+      ],
+      "credits": []
+    }
+  ],
+  "work": {
+    "lead": "Photography, research and design, gathered as one catalogue.",
+    "design": [
+      [
+        "09",
+        "SOTA",
+        "Branding, website, product UI",
+        ""
+      ],
+      [
+        "10",
+        "ALMA",
+        "Mobile app and dashboard concept",
+        "https://www.behance.net/gallery/256780297/ALMA-Postpartum-Recovery-App-%28UIUX-Case-Study%29"
+      ]
+    ],
+    "film": [
+      [
+        "11",
+        "Liminal Space",
+        "Music video, on Vimeo",
+        "",
+        "Watch on Vimeo →"
+      ]
+    ]
+  },
+  "info": {
+    "about": [
+      "Born in Ukraine, Valeriia Eriomenco-Yeromenko, also known as Thee Ryder, is a fashion photographer and visual artist based in Bratislava, navigating life in migration. With over five years of practice across commercial, editorial and e-commerce photography, she works through the full span of image production, from concept and direction to retouching and final delivery.",
+      "Alongside photography she works in 3D and CGI art direction, developing visual concepts, virtual environments and animatics in Unreal Engine, and collaborating with technical specialists to bring synthetic and real imagery into coherent visual worlds.",
+      "Her research-based practice, developed at the Academy of Fine Arts and Design in Bratislava, moves between analogue and digital processes, from film and photograms to 3D reconstruction and interactive environments.",
+      "She also writes code. Creative coding studies and personal experiments in JavaScript and p5.js, developed through coursework and further experimentation, explore drawing, animation, generative patterns, webcam and keyboard interaction, and experimental websites. Her brand and digital product design is on Behance."
+    ],
+    "education": [
+      [
+        "Sep 2020 to Aug 2026",
+        "Academy of Fine Arts and Design, Bratislava",
+        "Visual arts (photography and new media) / pedagogics and psychology"
+      ],
+      [
+        "Oct 2025 to Feb 2026",
+        "Akademie der bildenden Künste Wien",
+        "Visual arts (time and photography)"
+      ],
+      [
+        "Mar 2023 to Sep 2023",
+        "Hochschule Bielefeld (HSBI)",
+        "Mixed media and videography techniques"
+      ],
+      [
+        "Sep 2019 to Aug 2020",
+        "Catholic University in Ružomberok",
+        "Mathematics and programming / Italian and English linguistics / pedagogics"
+      ]
+    ],
+    "exhibitions": [
+      [
+        "2026",
+        "DKP: “Where the image becomes a threshold”",
+        "Bratislava, Slovakia"
+      ],
+      [
+        "2026",
+        "Collective exhibition “Hommage à Monet”",
+        "French Institute, Bratislava, Slovakia"
+      ],
+      [
+        "19 to 22 Jun 2025",
+        "Solarigraphy Meeting 2025: Between Science, Art, and Education",
+        "Planetum, Prague, Czech Republic"
+      ],
+      [
+        "6 Dec 2024 to 12 Jan 2025",
+        "Collaborative exhibition “Orthophoto”",
+        "Oldcity Gallery Zichy, Ventúrska 9, Bratislava, Slovakia"
+      ],
+      [
+        "29 Nov 2024",
+        "Pop-up exhibition “Ghosts of Study Collections’ Past”",
+        "Royal Academy of Art in The Hague (KABK), Netherlands"
+      ],
+      [
+        "25 Nov to 1 Dec 2024",
+        "Cyanotype workshop",
+        "One-week workshop at KABK with Paris Beaux-Arts, built around KABK’s buried plaster cast collection and the story of its destruction in the 1960s"
+      ],
+      [
+        "25 Jun 2024",
+        "Pop-up exhibition “Collective Frameworks”",
+        "Kotolňa FAD STU, Bratislava, Slovakia"
+      ],
+      [
+        "8 to 28 Feb 2023",
+        "Solo exhibition “Abstract Reality”",
+        "Galéria Artotéka, Kapucínska 3, Bratislava, Slovakia"
+      ]
+    ],
+    "publications": [
+      [
+        "March 2025",
+        "VOGUE CS"
+      ],
+      [
+        "2024",
+        "Darkly Art Magazine"
+      ],
+      [
+        "2024",
+        "STROFA: nová éra poézie"
+      ],
+      [
+        "2024",
+        "Mob Journal: Portrait Issue"
+      ],
+      [
+        "September 2024",
+        "SAINTEIGHT No.175"
+      ],
+      [
+        "2024",
+        "Vigour: The July Fashion and Beauty Issue N23"
+      ],
+      [
+        "2024",
+        "BLISS Magazine: The April Fashion & Beauty Edition Vol.8"
+      ],
+      [
+        "2024",
+        "17:23 MAG: Special Edition Vol.135"
+      ],
+      [
+        "2024",
+        "ESTIMAG: January Issue N30"
+      ],
+      [
+        "",
+        "ESTIMAG: October Issue N22 Vol. 1"
+      ],
+      [
+        "",
+        "Féroce: May Volume 6"
+      ],
+      [
+        "",
+        "Volant: #19 Biggest Issue Ever"
+      ],
+      [
+        "",
+        "Mordant: May Volume 4"
+      ],
+      [
+        "April 2020",
+        "ELEGANT"
+      ],
+      [
+        "",
+        "Art of Portrait: Issue 41"
+      ],
+      [
+        "2024 (fair)",
+        "Paris Photo, Carte Blanche (students)"
+      ],
+      [
+        "12 Mar 2022 (fair)",
+        "PhotoVogue, A Tribute to Ukraine: Chapter IV"
+      ]
+    ],
+    "clients": "PhotoVogue.it · BLISS · Féroce · Elegant · Mordant · VOLANT · Art Of Portraits · Baldinini · Belit.ua · YORA · LAHODA · Petra Weingart · Laurrrie Lingerie · CIJA · Kristian Stanko · BLESSURE · ZASCHA · Cnguyen Design · VVAIN · DAKOOKA",
+    "skills": [
+      [
+        "Craft",
+        "Lighting, colour grading, retouching"
+      ],
+      [
+        "Photo and video",
+        "Photoshop, Lightroom, Premiere Pro, After Effects, DaVinci Resolve, InDesign"
+      ],
+      [
+        "Design",
+        "Figma, Framer, UI/UX, design systems, developer handoff"
+      ],
+      [
+        "Code and AI",
+        "HTML, CSS, JavaScript, Git and GitHub, Claude skills, MCP, ComfyUI"
+      ],
+      [
+        "3D",
+        "Unreal Engine, Blender, Houdini (basic), Nuke, 3ds Max"
+      ],
+      [
+        "Other",
+        "PureRef, Notion, Excel"
+      ]
+    ],
+    "languages": [
+      [
+        "Native",
+        "Ukrainian, Russian"
+      ],
+      [
+        "C1",
+        "Slovak, English"
+      ],
+      [
+        "A2",
+        "Italian, German"
+      ]
+    ]
+  }
+}
